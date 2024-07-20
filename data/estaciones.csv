@@ -1,0 +1,21 @@
+Estación,Sigla,Latitud,Longitud,Altitud,Localidad,Tipo_zona,Tipo_estacion
+Guaymaral,GYR,4.783750,-74.044139,2580,Suba,Sub urbana,De fondo
+Usaquen,USQ,4.710350,-74.030417,2570,Usaquén,Urbana,De fondo
+Suba,SUB,4.761247,-74.093461,2571,Suba,Sub urbana,De fondo
+Bolivia,BOL,4.735806,-74.125889,2574,Engativá,Sub urbana,De fondo
+Las Ferias,LFR,4.690700,-74.082483,2552,Engativá,Urbana,De tráfico
+Centro de Alto Rendimiento,CDAR,4.658467,-74.083967,2552,Engativá,Urbana,De tráfico
+Movil 7ma,SEPMA,4.645194,-74.061556,2583,Chapinero,Urbana,De tráfico
+MinAmbiente,MAM,4.625486,-74.066981,2621,Santa Fe,Urbana,De tráfico
+Fontibon,FTB,4.678242,-74.143819,2551,Fontibón,Urbana,De tráfico
+Puente Aranda,PTE,4.631767,-74.117483,2590,Puente Aranda,Urbana,Industrial
+Kennedy,KEN,4.625050,-74.161333,2580,Kennedy,Urbana,De fondo
+Carvajal - Sevillana,CSE,4.595833,-74.148500,2563,Kennedy,Urbana,Tráfico/industrial
+Tunal,TUN,4.576225,-74.130956,2589,Tunjuelito,Urbana,De fondo
+San Cristobal,SCR,4.572553,-74.083814,2688,San Cristóbal,Urbana,De fondo
+Jazmin,JAZ,4.608500,-74.114944,2559,Puente Aranda,Urbana,Residencial
+Usme,USM,4.532056,-74.117139,2593,Usme,Urbana,Residencial
+Bosa,BOS,4.605611,-74.204056,2546,Bosa,Urbana,De fondo
+Ciudad Bolivar,CBV,4.577806,-74.166278,2661,Ciudad Bolívar,Urbana,Residencial
+Colina,COL,4.737194,-74.069472,2555,Suba,Urbana,De fondo
+Movil Fontibon,MOV2,4.668000,-74.148500,2547,Fontibón,Urbana,Tráfico/industrial
